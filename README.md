@@ -9,7 +9,7 @@ The libaries needed are:
 
 The MQTT Broker used is https://thingspeak.com/
 
-You'll need to provide your own PrivateKey.h with the followin #defines
+You'll need to provide your own PrivateKey.h in the same directory, with the followin #defines
 
 #define WIFISSID "mySSID"                           // Put your Wifi SSID here
 #define PASSWORD "mySSIDPassword"                   // Put your wifi password here
