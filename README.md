@@ -1,2 +1,2 @@
 # ESP32WeatherStation
-ESP32-based weather station, logging temp/atmospheric pressure to a MQTT Broker. Leveraging deep sleep for power savings.
+IoT Weather station based on Espressif ESP32 microcontrollers. Leverage its deep sleep capability to save power. Logs temp/atmospheric pressure to a MQTT Broker. 
